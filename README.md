@@ -23,15 +23,9 @@
 
 ##  Sobre Mim
 
-<table>
-<tr>
-<td>
-
 ```bash
 luan@dev:~$ whoami
 Luan Santos
-
-luan@dev:~$ cat sobre.txt
 ```
 
 Olá! Eu sou o **Luan** 
@@ -39,10 +33,6 @@ Olá! Eu sou o **Luan**
 Sou estudante de **Ciência da Computação** e estou sempre em busca de aprimorar minhas habilidades de desenvolvimento. Gosto de **desafios** e acredito que a **prática** é o melhor caminho para aprender, por isso vivo criando, testando e evoluindo meus projetos por aqui.
 
 Fique à vontade para explorar meus repositórios e trocar ideias! 🚀
-
-</td>
-</tr>
-</table>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0221,50:A855F7,100:0D0221&height=2" alt="" />
 
@@ -55,20 +45,20 @@ Fique à vontade para explorar meus repositórios e trocar ideias! 🚀
 <img src="https://img.shields.io/badge/JavaScript-A855F7?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
 <img src="https://img.shields.io/badge/HTML5-A855F7?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
 <img src="https://img.shields.io/badge/CSS3-A855F7?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-<img src="https://img.shields.io/badge/SQL-A855F7?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/SQL-A855F7?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
 
 </div>
 
-## Ferramentas
+##  Ferramentas
 
 <div align="center">
 
 | Categoria | Ferramentas |
 | :-- | :-- |
-| **Bancos de Dados** | <img src="https://img.shields.io/badge/MySQL-2D1458?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/SQLite-2D1458?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" /> |
-| **Versionamento** | <img src="https://img.shields.io/badge/Git-2D1458?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-2D1458?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> |
-| **Ambiente & Editor** | <img src="https://img.shields.io/badge/Linux-2D1458?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" /> <img src="https://img.shields.io/badge/Neovim-2D1458?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" /> |
-| **Design** | <img src="https://img.shields.io/badge/Figma-2D1458?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /> |
+| ** Bancos de Dados** | <img src="https://img.shields.io/badge/MySQL-2D1458?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/SQLite-2D1458?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" /> |
+| ** Versionamento** | <img src="https://img.shields.io/badge/Git-2D1458?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-2D1458?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> |
+| ** Ambiente & Editor** | <img src="https://img.shields.io/badge/Linux-2D1458?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" /> <img src="https://img.shields.io/badge/Neovim-2D1458?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" /> |
+| ** Design** | <img src="https://img.shields.io/badge/Figma-2D1458?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /> |
 
 </div>
 
@@ -77,27 +67,54 @@ Fique à vontade para explorar meus repositórios e trocar ideias! 🚀
 ##  Projetos
 
 <!--
-  ATENÇÃO: troque o valor de "repo=" pelo nome EXATO de cada repositório.
-  Para adicionar mais projetos, copie um bloco <a> ... </a> e cole ao lado.
+  Para adicionar um novo projeto, copie um bloco <td> ... </td>
+  e cole ao lado (ou crie uma nova linha <tr> ... </tr>).
 -->
 
-<div align="center">
+<table>
+<tr>
 
-<a href="https://github.com/Luandos/gerenciamento_arquivo.git">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Luandos&repo=gerenciamento_arquivo
-&theme=transparent&bg_color=0D0221&title_color=A855F7&text_color=D8C7F5&icon_color=FF2E97&border_color=3B1A6B&show_owner=false" alt="Organizador de Arquivos" />
-</a>
-<a href="https://github.com/Luandos/Sistema_De_Estoque.git">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Luandos&repo=Sistema_De_Estoque&theme=transparent&bg_color=0D0221&title_color=A855F7&text_color=D8C7F5&icon_color=FF2E97&border_color=3B1A6B&show_owner=false" alt="Sistema de Estoque" />
-</a>
+<td width="33%" valign="top">
 
-</div>
+###  [gerenciamento_arquivo](https://github.com/Luandos/gerenciamento_arquivo)
 
-|  Organizador de Arquivos |  Sistema de Estoque |
-| :-- | :-- |
-| Script em Python que descompacta um `.zip`, cria pastas por extensão, move os arquivos e registra tudo em um `registro.log`. | Sistema para controle de estoque, desenvolvido para praticar lógica, organização de dados e boas práticas. |
+<img src="https://img.shields.io/badge/Python-A855F7?style=flat-square&logo=python&logoColor=white" alt="Python" />
 
->  Mais projetos em breve. Estou sempre construindo algo novo.
+Script que descompacta um arquivo `.zip`, cria pastas por extensão, move cada arquivo para o lugar certo e registra tudo em um `registro.log`.
+
+**[Ver repositório →](https://github.com/Luandos/gerenciamento_arquivo)**
+
+</td>
+
+<td width="33%" valign="top">
+
+###  [Desenvolvimentos_Em_Aulas](https://github.com/Luandos/Desenvolvimentos_Em_Aulas)
+
+<img src="https://img.shields.io/badge/C-A855F7?style=flat-square&logo=c&logoColor=white" alt="C" />
+
+Exercícios e atividades desenvolvidos ao longo das aulas da faculdade, como os de pensamento computacional, para treinar lógica e prática.
+
+**[Ver repositório →](https://github.com/Luandos/Desenvolvimentos_Em_Aulas)**
+
+</td>
+
+<td width="33%" valign="top">
+
+###  [Sistema_De_Estoque](https://github.com/Luandos/Sistema_De_Estoque)
+
+<img src="https://img.shields.io/badge/Python-A855F7?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/SQLite-FF2E97?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+
+Sistema de gestão de estoque no terminal, em grupo: cadastro de produtos, entradas e saídas, consulta e alerta de estoque baixo, com dados salvos em SQLite.
+
+**[Ver repositório →](https://github.com/Luandos/Sistema_De_Estoque)**
+
+</td>
+
+</tr>
+</table>
+
+> 🔧 Mais projetos em breve. Estou sempre construindo algo novo.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0221,50:A855F7,100:0D0221&height=2" alt="" />
 
@@ -130,24 +147,18 @@ luan@dev:~$ _
 
 <img width="98%" src="https://streak-stats.demolab.com?user=Luandos&theme=transparent&background=0D0221&stroke=3B1A6B&ring=A855F7&fire=FF2E97&currStreakNum=D8C7F5&sideNums=D8C7F5&currStreakLabel=A855F7&sideLabels=A855F7&dates=9C84C9&border=3B1A6B" alt="GitHub Streak" />
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Luandos&bg_color=0D0221&color=D8C7F5&line=A855F7&point=FF2E97&area=true&area_color=A855F7&hide_border=true&title_color=A855F7" alt="Activity Graph" />
+<!-- Gráficos de pizza: linguagens por repositório e por commit -->
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Luandos&theme=radical" alt="Repositórios por linguagem" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Luandos&theme=radical" alt="Linguagens mais usadas nos commits" />
 
 </div>
 
-##  Troféus
+##  Atividade
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Luandos&theme=radical&no-frame=true&no-bg=true&margin-w=12&column=7" alt="GitHub Trophies" />
-
-</div>
-
-##  Contribuições
-
-<div align="center">
-
-<!-- Requer o workflow snake.yml (instruções abaixo do arquivo) -->
-<img width="100%" src="https://raw.githubusercontent.com/Luandos/Luandos/output/github-snake-purple.svg" alt="Snake animation" />
+<!-- Gráfico de atividade: mostra as contribuições dia a dia, com eixo de datas -->
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Luandos&bg_color=0D0221&color=D8C7F5&line=A855F7&point=FF2E97&area=true&area_color=A855F7&hide_border=true&title_color=A855F7&custom_title=Contribui%C3%A7%C3%B5es%20dos%20%C3%BAltimos%20dias" alt="Activity Graph" />
 
 </div>
 
@@ -157,8 +168,8 @@ luan@dev:~$ _
 
 <div align="center">
 
-<a href="www.linkedin.com/in/luandos"><img src="https://img.shields.io/badge/LinkedIn-A855F7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:luandosssantos9@gmail.com"><img src="https://img.shields.io/badge/E--mail-FF2E97?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
+<a href="https://www.linkedin.com/in/luandos"><img src="https://img.shields.io/badge/LinkedIn-A855F7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:SEU-EMAIL@exemplo.com"><img src="https://img.shields.io/badge/E--mail-FF2E97?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
 
 <br/><br/>
 
