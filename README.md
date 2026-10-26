@@ -157,8 +157,8 @@ luan@dev:~$ _
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/SEU-USUARIO/"><img src="https://img.shields.io/badge/LinkedIn-A855F7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:SEU-EMAIL@exemplo.com"><img src="https://img.shields.io/badge/E--mail-FF2E97?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
+<a href="www.linkedin.com/in/luandos"><img src="https://img.shields.io/badge/LinkedIn-A855F7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:luandosssantos9@gmail.com"><img src="https://img.shields.io/badge/E--mail-FF2E97?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
 
 <br/><br/>
 
