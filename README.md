@@ -83,11 +83,11 @@ Fique à vontade para explorar meus repositórios e trocar ideias! 🚀
 
 <div align="center">
 
-<a href="https://github.com/Luandos/organizador-de-arquivos">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Luandos&repo=organizador-de-arquivos&theme=transparent&bg_color=0D0221&title_color=A855F7&text_color=D8C7F5&icon_color=FF2E97&border_color=3B1A6B&show_owner=false" alt="Organizador de Arquivos" />
+<a href="https://github.com/Luandos/automatiza-o_gerenciamento_arquivo">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Luandos&repo=automatiza-o_gerenciamento_arquivo&theme=transparent&bg_color=0D0221&title_color=A855F7&text_color=D8C7F5&icon_color=FF2E97&border_color=3B1A6B&show_owner=false" alt="Organizador de Arquivos" />
 </a>
-<a href="https://github.com/Luandos/sistema-de-estoque">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Luandos&repo=sistema-de-estoque&theme=transparent&bg_color=0D0221&title_color=A855F7&text_color=D8C7F5&icon_color=FF2E97&border_color=3B1A6B&show_owner=false" alt="Sistema de Estoque" />
+<a href="https://github.com/Luandos/Sistema_De_Estoque.git">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Luandos&repo=Sistema_De_Estoque&theme=transparent&bg_color=0D0221&title_color=A855F7&text_color=D8C7F5&icon_color=FF2E97&border_color=3B1A6B&show_owner=false" alt="Sistema de Estoque" />
 </a>
 
 </div>
@@ -96,7 +96,7 @@ Fique à vontade para explorar meus repositórios e trocar ideias! 🚀
 | :-- | :-- |
 | Script em Python que descompacta um `.zip`, cria pastas por extensão, move os arquivos e registra tudo em um `registro.log`. | Sistema para controle de estoque, desenvolvido para praticar lógica, organização de dados e boas práticas. |
 
-> 🔧 Mais projetos em breve. Estou sempre construindo algo novo.
+>  Mais projetos em breve. Estou sempre construindo algo novo.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0221,50:A855F7,100:0D0221&height=2" alt="" />
 
