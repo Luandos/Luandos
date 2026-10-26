@@ -65,10 +65,10 @@ Fique à vontade para explorar meus repositórios e trocar ideias! 🚀
 
 | Categoria | Ferramentas |
 | :-- | :-- |
-| ** Bancos de Dados** | <img src="https://img.shields.io/badge/MySQL-2D1458?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/SQLite-2D1458?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" /> |
-| ** Versionamento** | <img src="https://img.shields.io/badge/Git-2D1458?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-2D1458?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> |
-| ** Ambiente & Editor** | <img src="https://img.shields.io/badge/Linux-2D1458?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" /> <img src="https://img.shields.io/badge/Neovim-2D1458?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" /> |
-| ** Design** | <img src="https://img.shields.io/badge/Figma-2D1458?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /> |
+| **Bancos de Dados** | <img src="https://img.shields.io/badge/MySQL-2D1458?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/SQLite-2D1458?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" /> |
+| **Versionamento** | <img src="https://img.shields.io/badge/Git-2D1458?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-2D1458?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> |
+| **Ambiente & Editor** | <img src="https://img.shields.io/badge/Linux-2D1458?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" /> <img src="https://img.shields.io/badge/Neovim-2D1458?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" /> |
+| **Design** | <img src="https://img.shields.io/badge/Figma-2D1458?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /> |
 
 </div>
 
@@ -83,7 +83,7 @@ Fique à vontade para explorar meus repositórios e trocar ideias! 🚀
 
 <div align="center">
 
-<a href="https://github.com/Luandos/automatiza-o_gerenciamento_arquivo">
+<a href="https://github.com/Luandos/automatiza-o_gerenciamento_arquivo.git">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Luandos&repo=automatiza-o_gerenciamento_arquivo&theme=transparent&bg_color=0D0221&title_color=A855F7&text_color=D8C7F5&icon_color=FF2E97&border_color=3B1A6B&show_owner=false" alt="Organizador de Arquivos" />
 </a>
 <a href="https://github.com/Luandos/Sistema_De_Estoque.git">
