@@ -41,7 +41,7 @@ Fique à vontade para explorar meus repositórios e trocar ideias!
 <div align="center">
 
 <img src="https://img.shields.io/badge/Python-A855F7?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/C-A855F7?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIuMyIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNOS41IDMuNVE2LjUgMy41IDYuNSA2LjhWOVE2LjUgMTEuMyAzIDEyUTYuNSAxMi43IDYuNSAxNVYxNy4yUTYuNSAyMC41IDkuNSAyMC41Ii8%2BPHBhdGggZD0iTTE0LjUgMy41UTE3LjUgMy41IDE3LjUgNi44VjlRMTcuNSAxMS4zIDIxIDEyUTE3LjUgMTIuNyAxNy41IDE1VjE3LjJRMTcuNSAyMC41IDE0LjUgMjAuNSIvPjwvc3ZnPg%3D%3D" alt="C" />
+<img src="https://img.shields.io/badge/C-A855F7?style=for-the-badge&logo=c&logoColor=white" alt="C" /> <img
 <img src="https://img.shields.io/badge/JavaScript-A855F7?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
 <img src="https://img.shields.io/badge/HTML5-A855F7?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
 <img src="https://img.shields.io/badge/CSS3-A855F7?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
