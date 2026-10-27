@@ -41,7 +41,7 @@ Fique à vontade para explorar meus repositórios e trocar ideias!
 <div align="center">
 
 <img src="https://img.shields.io/badge/Python-A855F7?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/C-A855F7?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+<img src="https://img.shields.io/badge/C-A855F7?style=for-the-badge" alt="C" />
 <img src="https://img.shields.io/badge/JavaScript-A855F7?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
 <img src="https://img.shields.io/badge/HTML5-A855F7?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
 <img src="https://img.shields.io/badge/CSS3-A855F7?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -90,7 +90,7 @@ Script que descompacta um arquivo `.zip`, cria pastas por extensão, move cada a
 
 ### [Desenvolvimentos_Em_Aulas](https://github.com/Luandos/Desenvolvimentos_Em_Aulas)
 
-<img src="https://img.shields.io/badge/C-A855F7?style=flat-square&logo=c&logoColor=white" alt="C" />
+<img src="https://img.shields.io/badge/C-A855F7?style=flat-square" alt="C" />
 
 Exercícios e atividades desenvolvidos ao longo das aulas da faculdade, como os de pensamento computacional, para treinar lógica e prática.
 
@@ -165,7 +165,9 @@ luan@dev:~$ _
 <div align="center">
 
 <a href="https://www.linkedin.com/in/luandos"><img src="https://img.shields.io/badge/LinkedIn-A855F7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:luandosssantos9@gmail.com"><img src="https://img.shields.io/badge/E--mail-FF2E97?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=luandosssantos9@gmail.com&su=Contato%20pelo%20GitHub"><img src="https://img.shields.io/badge/E--mail-FF2E97?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
+
+<sub>luandosssantos9@gmail.com</sub>
 
 <br/><br/>
 
