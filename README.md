@@ -41,7 +41,7 @@ Fique à vontade para explorar meus repositórios e trocar ideias!
 <div align="center">
 
 <img src="https://img.shields.io/badge/Python-A855F7?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/C-A855F7?style=for-the-badge&logo=c&logoColor=white" alt="C" /> <img
+<img src="https://img.shields.io/badge/C-A855F7?style=for-the-badge&logo=c&logoColor=white" alt="" /> <img
 <img src="https://img.shields.io/badge/JavaScript-A855F7?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
 <img src="https://img.shields.io/badge/HTML5-A855F7?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
 <img src="https://img.shields.io/badge/CSS3-A855F7?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
