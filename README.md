@@ -167,7 +167,6 @@ luan@dev:~$ _
 <a href="https://www.linkedin.com/in/luandos"><img src="https://img.shields.io/badge/LinkedIn-A855F7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=luandosssantos9@gmail.com&su=Contato%20pelo%20GitHub"><img src="https://img.shields.io/badge/E--mail-FF2E97?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
 
-<sub>luandosssantos9@gmail.com</sub>
 
 <br/><br/>
 
